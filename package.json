@@ -1,0 +1,22 @@
+{
+  "name": "to-do-list-node",
+  "version": "1.0.0",
+  "description": "Projeto de To do list no nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasnix/to-do-list-node.git"
+  },
+  "author": "Lucas Nix Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasnix/to-do-list-node/issues"
+  },
+  "homepage": "https://github.com/lucasnix/to-do-list-node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
