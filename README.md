@@ -12,3 +12,6 @@ Create Task
 
 Edit Task
 ![image](https://user-images.githubusercontent.com/41988297/153170927-9c8f3962-b99a-4944-b2cb-504554807630.png)
+
+Delete Task
+![image](https://user-images.githubusercontent.com/41988297/153171267-5c05dfce-c990-4296-a580-f5f22873d5ef.png)
